@@ -4,4 +4,7 @@ Abruna
 Tabruna
 kelso
 
+kruna
+gruna
+
 done!!
